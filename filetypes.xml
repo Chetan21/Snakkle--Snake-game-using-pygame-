@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="MLTest" type="Python" />
+      <mapping pattern="SummaryExtractor" type="Python" />
       <mapping pattern="urls" type="Python" />
     </extensionMap>
   </component>
